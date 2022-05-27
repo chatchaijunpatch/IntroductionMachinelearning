@@ -26,7 +26,7 @@
 
 <p style=" font-weight: 400;"> Example</p>
 
-![readme](/images/readme.png)
+![readme](https://github.com/chatchaijunpatch/IntroductionMachinelearning/blob/master/Project/Digit%20Recognize/images/readme.png?raw=true)
 
 Second, press "q" to quit program, and press "w" to capture the digit (this can use for collecting data).
 
